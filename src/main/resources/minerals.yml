@@ -1,0 +1,25 @@
+minerals:
+  COAL_ORE:
+    regen-time: 10
+    xp: 2
+  IRON_ORE:
+    regen-time: 15
+    xp: 3
+  GOLD_ORE:
+    regen-time: 20
+    xp: 4
+  DIAMOND_ORE:
+    regen-time: 30
+    xp: 6
+  EMERALD_ORE:
+    regen-time: 30
+    xp: 7
+  LAPIS_ORE:
+    regen-time: 25
+    xp: 5
+  REDSTONE_ORE:
+    regen-time: 20
+    xp: 4
+  QUARTZ_ORE:
+    regen-time: 15
+    xp: 3

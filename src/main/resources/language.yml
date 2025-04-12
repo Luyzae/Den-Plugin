@@ -1,0 +1,27 @@
+ping-message:
+  player: "&fYour ping is &2<ping>ms"
+  target: "&2<target>'s &fping is &2<ping>ms"
+
+gamemode:
+  usage: "&cUsage: /gamemode <mode> [player]"
+  invalid-mode: "&cInvalid game mode. Use: survival, creative, adventure, spectator."
+  console-needs-player: "&cYou must specify a player when using this command from the console."
+  player-not-found: "&cPlayer '<player>' not found."
+  changed-self: "&aYour game mode has been set to <gamemode>."
+  changed-other: "&aSet <player>'s game mode to <gamemode>."
+
+messages:
+  nexus:
+    cannot-damage-own: "&cYou cannot damage your own Nexus!"
+    damaged: "&eNexus damaged! Remaining health: &c<health>"
+    destroyed: "&cThe Nexus of team <team> has been destroyed!"
+
+pre-lobby:
+  welcome-message-pre-lobby: "&bWelcome to the pre-lobby! Choose your team and kit."
+  team-selected-info: "&aYou are still in team: &b<team>"
+  gui-title: "&bChoose Your Team"
+  diamond-title-team: "&bSelect Your Team"
+  diamond-text-team: "&7Right-click to choose your team!"
+  gui-join-text: "&7Click to join this team!"
+  already-selected-this-team: "&cYou have already selected this team!"
+  joined-the-team: "&7You joined the team: <team>"

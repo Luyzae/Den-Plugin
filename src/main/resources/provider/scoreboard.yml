@@ -1,0 +1,45 @@
+scoreboard:
+  enabled: true
+  title-animated:
+    enabled: true
+    interval: 0.5
+    title:
+      - "&3&lDestruye El Nexus"
+      - "&b&lDestruye El Nexus"
+  footer-animated:
+    enabled: false
+    interval: 1.5
+    footer:
+      - "   &7mc.server.com"
+  principal:
+    - "&7<date> <hour>"
+    - ""
+    - "&2&lUser Information"
+    - "&b&l| &aLevel&7: &f<level> &7(<level-progress>%)"
+    - "&b&l|&aNext Level&7: &f<next-level>"
+    - "&b&l| &aBalance&7: &a$<balance>"
+    - "&b&l| &aFaction&7: &f<faction>"
+    - ""
+    - "<koth>"
+    - "<dtc>"
+    - "&a&lSpawn&7: &c<spawn-time>"
+    - "&9&lEnderpearl&7: &c<enderpearl-time>"
+    - "<timers>"
+    - "<footer>"
+  waiting:
+    - "    &7<date> <hour>"
+    - ""
+    - "&b&l| &7Players: &b<players>&b/&b<max-players>"
+    - ""
+    - "&b&l| &7State: &b<starting-in>"
+    - ""
+    - "&b&l| &7Kit: &b<kit>"
+    - "&b&l| &7Team: &b<team>"
+    - ""
+    - "&b&l| &7Map: &b<map>"
+    - ""
+    - "<timers>"
+    - "<footer>"
+  timers:
+    - "&b&l| <timer-name>&7: &b<timer-time>"
+    - ""

@@ -1,0 +1,20 @@
+time:
+  zone: "America/Santiago"
+  date: "dd MMM yyyy"
+  hour: "hh:mma"
+
+nexus:
+  max-health: 75
+
+prelobby:
+  location: ""
+  region: ""
+  region-selected: false
+
+teams:
+  spawns: []
+
+game-settings:
+  players-join-game: 32
+  players-start-game: 8
+
